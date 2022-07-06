@@ -1,0 +1,26 @@
+
+zero.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+atackmovement
+  rotate: false
+  xy: 1, 48
+  size: 792, 46
+  orig: 792, 46
+  offset: 0, 0
+  index: -1
+runmovement
+  rotate: false
+  xy: 1, 1
+  size: 441, 45
+  orig: 441, 45
+  offset: 0, 0
+  index: -1
+staticmovement
+  rotate: false
+  xy: 444, 1
+  size: 397, 45
+  orig: 397, 45
+  offset: 0, 0
+  index: -1
